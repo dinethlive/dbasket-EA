@@ -4,6 +4,8 @@
 
 A production-level MetaTrader 5 Expert Advisor implementing a three-pair correlation hedging strategy with advanced statistical optimization modules.
 
+![D-Basket EA Preview](./screenshots/PREVIEW-v2-1.png)
+
 ---
 
 ## 🎯 Quick Links
