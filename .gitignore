@@ -1,0 +1,35 @@
+# D-Basket EA Git Ignore
+
+# Documentation folders to ignore (User Request)
+\[initial\]docs/
+\[research\]docs/
+
+# MetaTrader 5 / MQL5
+*.ex5
+*.log
+*.ini
+*.set
+*.tpl
+*.bak
+*.tmp
+*.manifest
+*.resource
+*.crx
+
+# Temporary files
+Temp/
+Logs/
+
+# IDE files
+.vscode/
+.idea/
+.Project
+*.user
+*.history
+*.cl
+*.it
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
